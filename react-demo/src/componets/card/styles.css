@@ -1,0 +1,9 @@
+.card {
+  font-family: sans-serif;
+  border: 1px solid #333;
+  padding: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  box-sizing: border-box;
+}
